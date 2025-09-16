@@ -27,6 +27,7 @@ COPY core /workspace/core
 COPY miner /workspace/miner
 COPY trainer /workspace/trainer
 COPY scripts /workspace/scripts
+COPY sd-script /app/sd-script
 COPY sd-scripts /app/sd-scripts
 COPY core/config/* /workspace/axolotl/
 
